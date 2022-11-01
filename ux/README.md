@@ -1,7 +1,7 @@
 Tahap Research dan Desain UX
 
 * Research
-https://www.holabrief.fr/public/fillout/project/3f7d4d2f-91a3-4eb4-9fb1-4837eb46fcec
+https://www.holabrief.com/public/fillout/project/3f7d4d2f-91a3-4eb4-9fb1-4837eb46fcec
 
 * UX Flow
 https://whimsical.com/ux-flow-mov-cKob8kcfddLQvzWTGvKsa
